@@ -1,1 +1,3 @@
 Try commit
+
+Test Sync recovery after Edge Gateway reboot after power failure
